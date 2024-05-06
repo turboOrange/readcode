@@ -1,4 +1,4 @@
-# INM5151_session_projet
+# read code
 
 # explications
 ## start.sh stop.sh
