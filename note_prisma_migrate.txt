@@ -1,0 +1,6 @@
+Au premier lancement, il est important de lancer la commande suivante :
+
+npx prisma migrate dev --name migration1
+
+ca va faire en sorte de synchroniser le schema.prisma avec la base de données
+spécifiée dans le .env situé à la racine du backend
