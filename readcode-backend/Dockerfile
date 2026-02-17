@@ -1,7 +1,7 @@
 # Le Dockerfile contient du code qui va
 # batir la Docker image.
 
-FROM node:24.10.0-alpine3.22
+FROM node:24.13.1-alpine3.22
 
 # Specifier le dossier du code source de l'app a image
 WORKDIR /usr/src/app
